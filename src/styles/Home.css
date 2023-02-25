@@ -1,0 +1,9 @@
+.bg-image{
+  background-image: url("../asset/travel.webp");
+  background-color: #cccccc;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
