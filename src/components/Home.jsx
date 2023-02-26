@@ -15,21 +15,21 @@ const Home = () => {
          </div>
         </div>
 
-          <div className="grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 items-center mt-5 bg-blue-300 mx-[10rem] p-5 mb-5">
-            <section>
+          <div className="grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 gap-4 items-center mt-5 	 mx-[10rem] p-5 mb-5">
+            <section className="shadow-gray-800">
               <img src={traveller} alt="travel" className="h-[7rem] w-[5rem] mx-auto" />
-              <p className="text-2xl text-center">Travel Now, Pay Later</p>
-              <p className="text-md">Pay for your trip in fonrynightly or monthly installment, interest free..</p>
+              <p className="text-3xl font-bold text-center">Travel Now, Pay Later</p>
+              <p className="text-md font-serif ">Pay for your trip in fonrynightly or monthly installment, interest free..</p>
             </section>
             <section className="mx-auto">
               <img src={consaltact} alt="consaltancy" className="h-[7rem] w-[5rem] mx-auto" />
-              <h1 className="text-2xl  ">Concirage Team</h1>
-              <p className="text-md">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <h1 className="text-3xl font-bold text-center ">Concirage Team</h1>
+              <p className="text-md font-serif ">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </section>
             <section>
               <img src={luggage} alt="travel" className="h-[7rem] w-[5rem] mx-auto" />
-              <h1 className="text-2xl text-center">Boarden Your Horizons</h1>
-              <p className="text-md">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo.</p>
+              <h1 className="text-3xl font-bold text-center">Boarden Your Horizons</h1>
+              <p className="text-md font-serif ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo.</p>
             </section>
           </div>
 
