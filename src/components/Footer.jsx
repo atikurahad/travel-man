@@ -13,7 +13,7 @@ const Footer = () => {
       <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-2 text-gray-300 bg-black">
       <div>
         <h1 className="w-full text-3xl font-bold text-[#00df9a]">
-          Atikur's Portfolio
+          Travel Man
         </h1>
         <p className="py-4">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, odio
@@ -32,10 +32,10 @@ const Footer = () => {
         <div>
           <ul>
             <h6 className="font-medium text-gray-400">Solutions</h6>
-            <li className="py-2 text-sm">Analytic</li>
-            <li className="py-2 text-sm">Marketing</li>
-            <li className="py-2 text-sm">Commerce</li>
-            <li className="py-2 text-sm">Insights</li>
+            <li className="py-2 text-sm">Home</li>
+            <li className="py-2 text-sm">About</li>
+            <li className="py-2 text-sm">Contact</li>
+            <li className="py-2 text-sm">Know More</li>
           </ul>
         </div>
 
