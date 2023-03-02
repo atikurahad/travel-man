@@ -20,7 +20,7 @@ const Footer = () => {
           consectetur. Vero praesentium natus doloremque.
         </p>
         <div className="flex justify-between md:w-[75%] my-6 text-yellow-500">
-          <FaFacebookSquare size={50} className="text-blue-500" />
+          <FaFacebookSquare size={50} className="text-blue-900" />
           <FaDribbbleSquare size={50} className="text-white" />
           <FaInstagramSquare size={50} className="text-[#ee3979]" />
           <FaGithubSquare size={50} className="text-gray-100" />
