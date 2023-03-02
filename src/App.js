@@ -1,5 +1,5 @@
 import About from "./components/About";
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import TopDeals from "./components/TopDeals";
@@ -11,7 +11,7 @@ function App() {
       <Home />
    <TopDeals />
    <About />
-   <Footer />
+   {/* <Footer /> */}
     </div>
   );
 }
