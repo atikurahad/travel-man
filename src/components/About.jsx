@@ -20,7 +20,7 @@ const About = () => {
         </p>
       </div>
 
-      <div className="grid grid-cols-3 gap-4 mx-48 h-[20rem] my-6 justify-items-center	">
+      <div className="grid grid-cols-3 gap-4 mx-48 h-[20rem] mt-6 justify-items-center	items-center	">
         <section className="col-span-2">
           <h1 className="text-4xl text-center font-bold">Explore Travel</h1>
           <p>
@@ -39,7 +39,7 @@ const About = () => {
         </section>
       </div>
 
-      <div className="grid grid-cols-3 gap-4 mx-48 h-[20rem] my-6 justify-items-center	">
+      <div className="grid grid-cols-3 gap-4 mx-48 h-[20rem] mt-6 justify-items-center	items-center	">
         <section className="col-span-1">
           <img
             src="https://explore.bustickets.com/wp-content/uploads/2019/09/solo-travel-backpack-tips.jpg"
@@ -61,7 +61,7 @@ const About = () => {
         </section>
       </div>
 
-      <div className="grid grid-cols-3 gap-4 mx-48 h-[20rem] my-6 justify-items-center	">
+      <div className="grid grid-cols-3 gap-4 mx-48 h-[20rem] mt-6 justify-items-center	items-center	">
         <section className="col-span-2 my-10">
           <h1 className="text-4xl text-center font-bold">To Book Now</h1>
           <p>
@@ -93,7 +93,7 @@ const About = () => {
 
 
 
- <div className="grid grid-cols-3 gap-4 mx-48 h-[20rem] my-6 justify-items-center	">
+ <div className="grid grid-cols-3 gap-4 mx-48 h-[20rem] mt-6 justify-items-center	items-center	">
 
  <section className="col-span-1">
           <img
@@ -113,6 +113,15 @@ const About = () => {
 
 
       </div>
+
+
+        <section className="flex flex-col items-center ">
+          <h1 className="text-xl font-bold text-center mt-[5rem] mb-[2rem]">If you’re a travel business looking to promote with us</h1>
+          <button className="mx-5 my-3 p-4 bg-blue-900 text-white w-[20%]">Contact Advertising</button>
+          <p className="text-8xl font-semibold text-center text-blue-700">Travel Man</p>
+
+        </section>
+
 
     </div>
   );
