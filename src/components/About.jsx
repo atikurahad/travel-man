@@ -118,7 +118,7 @@ const About = () => {
         <section className="flex flex-col items-center ">
           <h1 className="text-xl font-bold text-center mt-[5rem] mb-[2rem]">If you’re a travel business looking to promote with us</h1>
           <button className="mx-5 my-3 p-4 bg-blue-900 text-white w-[20%]">Contact Advertising</button>
-          <p className="text-8xl font-semibold text-center text-blue-700">Travel Man</p>
+          <p className="text-8xl font-semibold text-center text-blue-700 my-5">Travel Man</p>
 
         </section>
 
